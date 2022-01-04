@@ -3,10 +3,10 @@
 💡 &nbsp;  I like to explore new technologies and create new projects with Embedded Systems.\
 🎓 &nbsp;I'm currently studying Computer Engineering at the University of Umm Al-Qura.\
 🌱 &nbsp;I'm on track for learning more about Networks for the CCNA certification.\
-# ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at eng.ahkhaledi@gmail.com! I'll respond as soon as possible.\
 📄 &nbsp;Please have a look at my [Résumé](https://abdukhaledi.github.io/) for more details about me. I'm open to feedback and suggestions!
+<!-- ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\ -->
 
 ## ⚡ Tech Stack
 Here are a few things I've picked up along my learning journey.
