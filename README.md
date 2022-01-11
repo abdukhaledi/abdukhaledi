@@ -5,7 +5,7 @@
 🌱 &nbsp;I'm on track for learning more about Networks for the CCNA certification.\
 💬 &nbsp;Feel free to reach out to me for volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at eng.ahkhaledi@gmail.com! I'll respond as soon as possible.\
-📄 &nbsp;Please have a look at my [Resume](https://github.com/abdukhaledi/abdukhaledi/files/7822004/Abdulrahman_Khaledi_Resume.pdf) 
+📄 &nbsp;Please have a look at my [Resume](https://github.com/abdukhaledi/abdukhaledi/files/7850319/Abdulrahman_Khaledi_Resume.pdf) 
  or my [Website](https://abdukhaledi.github.io/) for more details about me. 
 <!-- ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\ -->
 ## ⚡ Tech Stack
