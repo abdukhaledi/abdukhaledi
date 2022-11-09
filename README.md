@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Abdulrahman Khaledi 👨‍💻
 
-🎓 &nbsp;I'm currently studying Computer Engineering at the University of Umm Al-Qura with 3.72/4 GPA.\
+🎓 &nbsp;I'm currently studying Computer Engineering at the University of Umm Al-Qura with 3.76/4 GPA.\
 💡 &nbsp;  I like to explore new technologies and create new projects with Embedded Systems.\
 🌱 &nbsp;I'm on track for learning more about Networks for the CCNA certification.\
 💬 &nbsp;Feel free to reach out to me.\
@@ -29,7 +29,6 @@ Here are a few things I've picked up along my learning journey.
 
 ### 📫 &nbsp; How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/adnanazmee) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AzmeeAdnan) 
 
 <!--
 Here are some ideas to get you started:
